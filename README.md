@@ -1,5 +1,4 @@
-En este proyecto de titulación desarrolaldo por el estudiante Kevin David Loja Sarmiento para obtener el titulo de Ingeniero en Telecomunicaciones se desarrolló un sistema de alimentación para mascotas, empleando tecnologías innovadoras como Wifi en los módulos ESP8266 y ESP32 y desarrollo Móvil en el framework Flutter vinculando la APP a Firebase.
+En este proyecto de titulación desarrolaldo por el estudiante Kevin David Loja Sarmiento para obtener el titulo de Ingeniero en Telecomunicaciones se desarrolló un sistema de alimentación para mascotas, empleando tecnologías innovadoras como Wifi en los módulos ESP8266 y ESP32 y desarrollo Móvil en el framework Flutter vinculando la App con Firebase.
 
 La conectividad Wifi integrada permitió la programación de horarios de alimentación a través de una aplicación móvil desarrollada con Flutter. Esta aplicación no solo facilita la configuración del sistema, sino que también proporciona información en tiempo real sobre el estado del dispensador, recomendaciones, rendimiento una pantallad e inicio y registro de usuarios todo desde la comodidad del teléfono móvil del usuario.
 
-2024.
