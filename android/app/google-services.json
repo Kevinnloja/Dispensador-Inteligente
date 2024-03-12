@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738710674855",
+    "project_id": "dispensador-9c411",
+    "storage_bucket": "dispensador-9c411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738710674855:android:7d2437f8eab5a0371b2a82",
+        "android_client_info": {
+          "package_name": "com.example.smart_dispenser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGhfdLB-MOy1jUS1WOPC69rriQii4QO7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
