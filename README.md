@@ -5,4 +5,4 @@ La conectividad Wifi integrada permitió la programación de horarios de aliment
 Note: 
 - El archivo CameraWebServer hace referencia al manejo del ESP32 - CAM.
 - El archivo ESP8266 hace referencia al manejo de los sensores y actuadores del proyecto conjuntamente con FIREBASE.
-- El resto de archivos sobrantes corresponden a la progrmación de la APP móvil en Flutter.
+- El resto de archivos sobrantes corresponden a la programación de la APP móvil en Flutter.
