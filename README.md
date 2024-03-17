@@ -6,3 +6,7 @@ Note:
 - El archivo CameraWebServer hace referencia al manejo del ESP32 - CAM.
 - El archivo ESP8266 hace referencia al manejo de los sensores y actuadores del proyecto conjuntamente con FIREBASE.
 - El resto de archivos sobrantes corresponden a la programación de la APP móvil en Flutter.
+- Para mayor información del manejo de la APP y conocimiento del sistema recomendamos visitar los siguientes enlaces:
+  
+                                                https://n9.cl/web-dispensador-inteligente
+                                                https://n9.cl/tutorial-dispensador-inteligen
