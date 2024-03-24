@@ -5,7 +5,7 @@ La conectividad Wifi integrada permitió la programación de horarios de aliment
 Note: 
 - El archivo CameraWebServer hace referencia al manejo del ESP32 - CAM.
 - El archivo ESP8266 hace referencia al manejo de los sensores y actuadores del proyecto conjuntamente con FIREBASE.
-- La carpeta Drivers contiene los instaladores para las tarjetas ESP programables.
+- La carpeta Drivers Puertos contiene los instaladores para las tarjetas ESP programables.
 - El rar Libraries contiene todas las librerias necesarias para el correcto funcionamiento de los módulos ESP.
 - El resto de archivos sobrantes corresponden a la programación de la APP móvil en Flutter.
 - Para mayor información del manejo de la APP y conocimiento del sistema recomendamos visitar los siguientes enlaces:
